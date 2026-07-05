@@ -2,7 +2,7 @@
 
 A personal voice-controlled AI assistant built in Python. Talks back, opens your apps, hits your browser, and keeps you locked in when you need it.
 
-Built solo by **Hamza**.
+Built solo by **ymsoloranker**.
 
 ## Features
 
@@ -37,8 +37,8 @@ Built solo by **Hamza**.
 
 **1. Clone it**
 ```bash
-git clone https://github.com/Shirosaki/jarvis.git
-cd jarvis
+git clone https://github.com/ymsoloranker/SIMPLE-JARVIS-by-python-and-speech-recognition-.git
+cd SIMPLE-JARVIS-by-python-and-speech-recognition-
 ```
 
 **2. Install dependencies**
